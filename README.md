@@ -23,3 +23,6 @@ Visualizaciones con gráficos interactivos y descriptivos
 
 
 Informe final con conclusión y recomendación final
+
+
+Adjunto el link a Google Colab: https://colab.research.google.com/drive/1GO2rS9PTabSLjm4aD6SvoRtRJWfTFLzw?usp=sharing
